@@ -1,0 +1,49 @@
+package com.company;
+
+
+    import java.util.Scanner;
+
+    public class AreaCalculator {
+        public static void main(String[] args) {
+
+            Scanner scanner = new Scanner(System.in);
+
+
+            System.out.print("Enter the length of the side of the square: ");
+            double side = scanner.nextDouble();
+
+
+            System.out.print("Enter the radius of the circle: ");
+            double radius = scanner.nextDouble();
+
+
+            System.out.print("Enter the length of the rectangle: ");
+            double length = scanner.nextDouble();
+            System.out.print("Enter the breadth of the rectangle: ");
+            double breadth = scanner.nextDouble();
+
+            double squareArea = calculateAreaOfSquare(side);
+            double circleArea = calculateAreaOfCircle(radius);
+            double rectangleArea = calculateAreaOfRectangle(length, breadth);
+
+                       System.out.println("Area of square: " + squareArea);
+            System.out.println("Area of circle: " + circleArea);
+            System.out.println("Area of rectangle: " + rectangleArea);
+
+            scanner.close();
+        }
+
+        public static double calculateAreaOfSquare(double side) {
+            return side * side;
+        }
+
+        public static double calculateAreaOfCircle(double radius) {
+            return Math.PI * radius * radius;
+        }
+
+        public static double calculateAreaOfRectangle(double length, double breadth) {
+            return length * breadth;
+        }
+    }
+
+
