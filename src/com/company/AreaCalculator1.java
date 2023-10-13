@@ -39,12 +39,29 @@ class AreaCalculator1{
             System.out.println("Area of rectangle is: " + areaOfRectangle);
         }
 
-        */
+
     double area;
     public double calculateAreaofCircle(double radius){
         area=2*3.14*radius*radius;
         return area;
     }
-    
+
+
+        */
+    int a,b,c;
+    void input(){
+        Scanner s=new Scanner(System.in);
+        System.out.println("Enter the value of a and b: ");
+        a=s.nextInt();
+        b=s.nextInt();
+    }
+    void add(){
+        System.out.println("Addtion of a and b: ");
+        c=a+b;
+    }
+
+    public static void main(String[] args) {
+
+    }
     }
 

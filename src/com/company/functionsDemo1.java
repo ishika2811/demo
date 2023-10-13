@@ -1,11 +1,11 @@
 package com.company;
 
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
 
-public class functionsDemo1 {
+
+ class functionsDemo1
+ {
 
     /*9static void display() {
         System.out.println("Happy Learning");
@@ -30,7 +30,7 @@ public class functionsDemo1 {
 
     }
 
-     */
+
     int totalMarks = 0;
     int averageMarks = 0;
     int marks;
@@ -64,4 +64,28 @@ int average=fd.AverageMarks(total);
     }
 
 
+
+     */
+     int a,b,c;
+    void input(){
+        Scanner s=new Scanner(System.in);
+        System.out.println("Enter the value of a and b: ");
+        a=s.nextInt();
+        b=s.nextInt();
+    }
+    void add(){
+        c=a+b;
+        System.out.println(c);
+    }
+    static void greet(){ //function definiton
+
+        System.out.println("Hello");
+    }
+
+    public static void main(String[] args) {
+functionsDemo1 fd=new functionsDemo1();//object creation
+fd.input();//function calling instance
+fd.add();
+greet();//function calling static
+    }
 }

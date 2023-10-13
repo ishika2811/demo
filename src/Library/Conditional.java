@@ -1,6 +1,6 @@
 package Library;
 
-import java.util.Scanner;
+
 
 class Conditional {
     public static void main(String[] args) {

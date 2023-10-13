@@ -4,79 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8963086-a31b-4518-b131-f2940aae64e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/Bookimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/Conditional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/EnquiryForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/OakBridgeSchool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/hashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/recursionProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/treeMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PizzaOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AgeSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AreaCalculator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AverageAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AverageAgefile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ElectronicListService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/FurnitureItemImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/GameDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/NumberFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/OakBridgeSchool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StartupOrg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/VoterEligiblity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/demo1s3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/functionDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/functionsDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/functionsDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/implementaionModular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/insertionExmple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/loopingConstruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/pHAnalyser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/sortingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/sortingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/weightedAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/jap/s1/employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/jap/s1/example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demos4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseNmber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/schoolGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled8.iml" afterDir="false" />
+    <list default="true" id="a8963086-a31b-4518-b131-f2940aae64e4" name="Changes" comment="myRepositry">
+      <change afterPath="$PROJECT_DIR$/src/Library/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/WeightAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/Conditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/Conditional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AreaCalculator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AreaCalculator1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/functionsDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/functionsDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/implementaionModular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/implementaionModular.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="package-info" />
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -118,6 +55,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.company" />
+    </key>
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="com.company.implementaionModular" />
     </key>
   </component>
   <component name="RunManager" selected="Application.functionsDemo1">
@@ -167,33 +107,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pHAnalyser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.pHAnalyser" />
+    <configuration name="schoolGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="schoolGrades" />
       <module name="untitled8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.schoolGrades" />
       <item itemvalue="Application.functionsDemo1" />
       <item itemvalue="Application.array" />
       <item itemvalue="Application.PizzaOrder" />
       <item itemvalue="Application.VoterEligiblity" />
-      <item itemvalue="Application.pHAnalyser" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.functionsDemo1" />
+        <item itemvalue="Application.schoolGrades" />
         <item itemvalue="Application.array" />
         <item itemvalue="Application.VoterEligiblity" />
         <item itemvalue="Application.PizzaOrder" />
-        <item itemvalue="Application.pHAnalyser" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +140,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670655061614</updated>
     </task>
+    <task id="LOCAL-00001" summary="myRepositry">
+      <created>1697034648069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697034648069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +161,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="myRepositry" />
+    <option name="LAST_COMMIT_MESSAGE" value="myRepositry" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -226,6 +172,15 @@
           <url>file://$PROJECT_DIR$/out/production/untitled8/dArray.class</url>
           <line>14</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/schoolGrades.java</url>
+          <line>24</line>
+          <properties class="schoolGrades" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
